@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/JimAnderson0011/pipelines-java/_apis/build/status/FastEddieAnderson.pipelines-java?branchName=master)](https://dev.azure.com/JimAnderson0011/pipelines-java/_build/latest?definitionId=3&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
